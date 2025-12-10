@@ -1,8 +1,4 @@
-This file will contain documentation for all commands available in your game.
 
-Note:  It's a good idea to also make this list available inside the game, in response to a `HELP` command.
-
-OTHER THAN THE KEYWORDS (in quotes) AND NAMES OF ITEMS/PLACES, NOTHING YOU ENTER INTO THE COMMAND LINE MATTERS
 input reader is not case sensitive
 
 Supports "go" and "walk" for moving within a location. Use "drive" to move between locations (eg: home to work). You can go to any location if you get in your car first
@@ -57,5 +53,6 @@ Sample test series of commands:
 "go to car" > "drive to grocery store" > Buy some items > "drive home" > "Go to kitchen" > "cook" > "eat breakfast" >
 "go to car" > "drive to trailer park" > "talk to dave" > "buy car" > "go to car" (if you agreed to drink with dave sleep in your car before going to work) > "drive to work" > "use computer" > hire some employees and turn off the computer > "Go to repair shop" >
 if your employees are still here, "talk" and then "assign" them to fix the car you bought. otherwise, "drive home" "go to bed" "sleep" 
-and "drive to work", then "go to repair shop" the next day. once the car is fixed "go to parking lot. Optionally "talk" to the customer or just "sell". The sale price will be wildly different from the price displayed when you choose the car, just roll with it. Type "yes" to complete the sale and conragtulations, you have experienced the life of a used car salesman. There's more in the game but I know you have a lot of these to grade. Just use ^X^C to quit.
+and "drive to work", then "go to repair shop" the next day. once the car is fixed "go to parking lot. Optionally "talk" to the customer or just "sell". The sale price will be wildly different from the price displayed when you choose the car, just roll with it. Type "yes" to complete the sale and conragtulations, you have experienced the life of a used car salesman. There's more in the game but that is for you to discover....
+
 
