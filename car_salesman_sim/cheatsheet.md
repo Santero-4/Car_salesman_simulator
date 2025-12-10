@@ -43,9 +43,7 @@ Use 'drop' to drop items. They will remain in the location where you dropped the
 
 
 
-# SPOILER ALERT
-
-If your game includes challenges that must be overcome to win, also list them below.
+TUTORIAL:
 
 Rather than being a game you can win, this is a game where you have to survive without losing. If your bills are due and you can't pay them, you will lose. If you drive while intoxicated, you will also lose.
 
@@ -54,5 +52,6 @@ Sample test series of commands:
 "go to car" > "drive to trailer park" > "talk to dave" > "buy car" > "go to car" (if you agreed to drink with dave sleep in your car before going to work) > "drive to work" > "use computer" > hire some employees and turn off the computer > "Go to repair shop" >
 if your employees are still here, "talk" and then "assign" them to fix the car you bought. otherwise, "drive home" "go to bed" "sleep" 
 and "drive to work", then "go to repair shop" the next day. once the car is fixed "go to parking lot. Optionally "talk" to the customer or just "sell". The sale price will be wildly different from the price displayed when you choose the car, just roll with it. Type "yes" to complete the sale and conragtulations, you have experienced the life of a used car salesman. There's more in the game but that is for you to discover....
+
 
 
